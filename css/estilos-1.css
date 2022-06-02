@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Verdana', 'Arial', sans-serif;
+}
+body{
+    background-color: #E11364;
+}
+header{
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    color: white;
+    background-color: #BC105C;
+    font-size: 20px;
+}
+section{
+    background-color: #BC105C;
+    margin: 30px;
+    height: 1500px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 15px;
+    padding: 15px;
+    color: white;
+}
+article{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    margin: 15px;
+}
+h3{
+    text-align: right;
+    font-size: 17px;
+    color: #BC105C;
+    border-bottom: dotted #BC105C;
+    margin: 10px;
+}
+img{
+    padding: 10px;
+    width: 85vw;
+    padding-right: 45px;
+}
+p{
+    font-size: 12px;
+    margin: 10px;
+}
+.refe{
+    border: 20px solid;
+    margin-top: 30px;
+}
+div.boton-comprar{
+    justify-content: center;
+    text-align: center;
+}
+button{
+    color: white;
+     font-weight: bold;
+     text-align: center;
+     width: 100px;
+     height: 40px;
+     border: none;
+     background-color: #2C8F20;
+     border-radius: 5px;
+     border-color: #2C8F20;
+     margin: 10px;
+}
+
+footer{
+    background-color: #E96093;
+    height: 70px;
+    margin: 30px;
+    border-radius: 5px;
+}
+.footertext{
+    font-weight: bold;
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
