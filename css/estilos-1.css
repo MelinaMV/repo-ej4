@@ -68,6 +68,9 @@ button{
      border-color: #2C8F20;
      margin: 10px;
 }
+.boton{
+    color: white;
+}
 
 footer{
     background-color: #E96093;
